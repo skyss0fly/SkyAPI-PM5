@@ -16,5 +16,5 @@ Economy and permissions built in!
 ---------------------------------
 
 Current Features: 
-OPList: FORKED FROM nhanaz-pm-pl
+NONE
 --------------------------
