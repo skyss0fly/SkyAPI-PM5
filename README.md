@@ -1,5 +1,6 @@
 # SkyAPI-PM5
 An API For all custom plugins, Currently on Pocketmine V.4.5.2 But will be compatible with V.5.0 on pocketmine upon release!
+for a downgraded version of SkyAPI-PM4 you will have to go to: *NOT AVAILABLE AT THIS CURRENT POINT OF TIME*
 
 
 -----------------------------------
