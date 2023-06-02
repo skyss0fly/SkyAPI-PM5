@@ -3,4 +3,4 @@ author: skyss0fly
 version: 1.1.0
 description: An api for all plugins necessary
 main: skyss0fly\SkyAPI-PM5\SkyAPI-PM5
-api: 4.18.2
+api: 5.0.0
